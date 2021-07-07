@@ -1,6 +1,6 @@
 {
   "name": "yonggui",
-  "version": "2.0.11",
+  "version": "2.0.12",
   "description": "IRISHub JavaScript SDK",
   "main": "index.js",
   "typings": "index.ts",
